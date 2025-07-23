@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+sentence-transformers>=2.2.2
+transformers>=4.38.0
+torch>=2.0.0
+link to the dataset - https://drive.google.com/file/d/1F5EDWIdx1gULtlew4WyzFNHKk2ye249u/view?usp=drive_link
