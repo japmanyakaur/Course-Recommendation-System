@@ -29,12 +29,12 @@ This project is an AI-powered ** Study Course recommendation engine** that helps
 
 | Component            | Stack                                          |
 |----------------------|------------------------------------------------| 
-| Language             | Python 3.x                                     | 
+| Language             | Python 3.10                                    | 
 | Framework            | Streamlit                                      | 
 | NLP Model            | `sentence-transformers/all-MiniLM-L6-v2`       | 
-| Data Processing      | Pandas, Numpy, Regex                           | 
+| Data Processing      | Pandas, Numpy                                  | 
 | Similarity           | Cosine Similarity from `sklearn`               | 
-| UI Styling           | Streamlit HTML + CSS Injection                 | 
+| UI Styling           | Streamlit HTML + CSS                           | 
 
 
 
