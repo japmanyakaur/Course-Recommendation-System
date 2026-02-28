@@ -18,8 +18,8 @@ This project is an AI-powered ** Study Course recommendation engine** that helps
 ##  Features 
 
 - Upload your own  CSV dataset (supports large datasets). 
--  Free-text query input (e.g., "learn DSA in C++"). 
--  Fast, accurate recommendations using vector similarity..
+-  Free-text query input (e.g., "learn DSA in C++".. 
+-  Fast, accurate recommendations using vector similarity.
 -  Frontend built with **Streamlit**. 
 
 
